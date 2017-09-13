@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from csv import DictReader
 from random import choice, choices
 import sys
