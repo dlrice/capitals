@@ -2,5 +2,6 @@
 
 ```
 git clone https://github.com/dlrice/capitals.git
-./capitals/capitals.py
+cd capitals
+./capitals.py
 ```
