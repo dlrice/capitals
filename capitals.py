@@ -4,7 +4,7 @@ from random import choice, choices
 import sys
 import os
 
-DATAFLE = './capitals.tsv'
+DATAFLE = 'capitals.tsv'
 EXIT_WORDS = ['quit', 'exit', 'bye', 'done']
 HELP_WORDS = ['help', 'cheat']
 
