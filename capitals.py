@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from csv import DictReader
-from random import choice, choices
+from random import choice, sample
 import sys
 import os
 
@@ -34,7 +34,7 @@ def main():
         })
         
     
-    selection = choices(data, k=10)
+    selection = sample(data, k=10)
     right = []
     wrong = list(selection)
     n_right, n_wrong  = 0, 0
