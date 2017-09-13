@@ -1,3 +1,9 @@
+# Requirements
+
+- Python 3
+
+
+
 # Install
 
 ```
